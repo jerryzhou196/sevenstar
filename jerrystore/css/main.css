@@ -1,0 +1,80 @@
+
+.navbar-brand{
+color: #DC3545 !important ;
+font-weight: bold;
+font-size: 36px;
+}
+.navbar{
+flex-direction: column;
+}
+.fixed-panel {
+    min-height: 275px;
+    max-height: 375px;
+    overflow-y: auto;
+}
+.panel {
+margin-bottom: 22px;
+background-color: #EDEAEA;
+border: 1px solid transparent;
+border-radius: 4px;
+box-shadow: 0 0 1px rgba(0,0,0,0.4);
+transition: all 0.3s ease;
+}    
+.panel-title{
+padding: 15px 23px;
+margin-bottom: .75rem;
+border-top-right-radius: 3px;
+border-top-left-radius: 3px;
+text-align: center;
+}
+.panel-body{
+-webkit-box-flex: 1;
+-ms-flex: 1 1 auto;
+flex: 1 1 auto;
+padding: 1.25rem;
+text-align: center;
+}
+.panel-heading{
+    font-size: 130px;
+    padding: 20px;
+    text-align: center;
+}
+.label {
+font-size: 25px;
+font-weight: bold;
+color: #DC3545;
+font-style: italic;
+}
+.price{
+margin-top: 0px;
+
+}
+.index-anchor{
+text-decoration: none !important
+}
+.wrapper{
+margin-top: 25px;
+margin-bottom: 25px;
+}
+.btn-primary{
+font-size: 30px;
+background-color: #DC3545 !important
+
+}
+
+#footer{
+ border-top: 1px solid #e8e8e8;
+ color: #DC3545;
+ background-color: #f8f8f8;
+}
+.py-3{
+padding-bottom: 3rem !important;
+padding-top: 3rem!important;
+}
+.blackbold{
+color: black;
+font-size: 16px;
+}
+#html {
+zoom: 76%;
+}

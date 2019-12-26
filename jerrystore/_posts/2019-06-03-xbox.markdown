@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Computer Repair"
+date:   2019-06-03 14:11:55 -0600
+category: 'Homepage'
+panelcolor: 'panel-default'
+icon: '<i class="fas fa-tools"></i>'
+---
+<div class="jumbotron">
+  <h2>PC and Mac Computer Repair</h2>
+  <p class="lead"> <i> MODELS: Any PC or Mac </i></p>
+  <hr class="my-4">
+  <p>
+
+We offer services that can fix PC or Mac problems that are stopping you from using it at a massively competitive price. Please come to the store for an estimate to deem if your computer is capable of being repaired. Please note that we are the most competitive store in Calgary that offers computer repair at a max of $50 or even less. <br> <br>
+  
+  <strong> We offer a life-time warranty that guaranteeds your product will be back in perfect condiiton. </strong> <br> <br> 
+
+<p> NOTE: Sometimes, computers are beyond physical repair and will need a replacement. Come to the store for a free estimate. </p>
+
+<br>
+
+</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="#" role="button">PRICE: $50 or less</a>
+  </p>
+</div>

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Virus Removal"
+date:   2019-06-04 14:11:55 -0600
+category: 'Homepage'
+panelcolor: 'panel-default'
+icon: '<i class="fas fa-bug"></i>'
+---
+<div class="jumbotron">
+  <h2>Virus/Malware Removal Services</h2>
+  <p class="lead"> <i> MODELS: PC, Mac</i></p>
+  <hr class="my-4">
+  <p> In this day and age, viruses and malware are more prevalant than ever. We offer virus and malware removal services at a <b> competive rate.</b> Bring your computer in for a free estimate. No hidden fees. Please note that there are such malwares that are impossible to remove without a hard reset.  
+
+  <br> <br>
+  
+  <strong> We offer a life-time warranty that guaranteeds your product will be as good as new after undergoing our service</strong> <br> <br>
+
+<p> NOTE: Our repair services can range to the highest of $50 or lower depending on how complicated the repair is </p>
+<br>
+
+</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="#" role="button">PRICE: $50 or less</a>
+  </p>
+</div>
