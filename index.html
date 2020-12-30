@@ -6,7 +6,7 @@ layout: default
   {% if post.category == "Homepage" %} 
         <div class="col-md-4">
          <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
-                <div class="panel fixed-panel {{ post.panelcolor }}">
+                <div class="panel fixed-panel {{ post.panelcolor }}" style="overflow: hidden;">
                 <div class = "panel-heading">
                 {{ post.icon }}
                 </div>
