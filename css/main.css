@@ -64,8 +64,8 @@ background-color: #DC3545 !important
 
 #footer{
  border-top: 1px solid #e8e8e8;
- color: #DC3545;
- background-color: #f8f8f8;
+ //color: #DC3545;
+ //background-color: #f8f8f8;
 }
 .py-3{
 padding-bottom: 3rem !important;
